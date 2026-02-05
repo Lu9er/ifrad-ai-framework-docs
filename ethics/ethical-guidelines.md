@@ -116,7 +116,7 @@ Responsibility for outcomes rests with **human actors and institutions**, not al
 Oversight mechanisms include:
 - Governance committees
 - Audit trails
-- Incident-reporting protocols (consistent with Elrha's Incident Prevention and Management Policy)
+- Incident-reporting protocols
 
 ---
 
@@ -187,7 +187,7 @@ Developers and implementing partners must:
 - Collect **only necessary data** (no patient-level health data)
 - Obtain **explicit informed consent** for primary data collection
 - Use **anonymization** for all storage and transmission
-- Maintain **7-year retention schedules** per Elrha requirements
+- Maintain **7-year retention schedules**
 - Conduct **annual data protection audits**
 - **Never transfer data to third parties** without written authorization
 
